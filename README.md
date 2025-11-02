@@ -1,4 +1,4 @@
-<p align="center"><b><i>Power Control v1.0</b></i> application was written in Python.
+<p align="center"><b><i>Power Control v1.0</b></i> Python application.
 
 <p align="center">
   <img src="ScreenShot.jpg" alt="Opis obrazka" width="300">
